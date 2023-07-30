@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "title": "PSQR",
-  "description": "PSQR key"
+  "description": "PSQR key",
   "includes": [
     "static/.well-known/psqr"
   ]

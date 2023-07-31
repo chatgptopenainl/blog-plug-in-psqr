@@ -1,8 +1,5 @@
 {
   "version": "1.0",
   "title": "PSQR",
-  "description": "PSQR key",
-  "includes": [
-    "static/.well-known/psqr"
-  ]
+  "description": "Simply provides static files. Name is an anomaly because I created it to store static/.well-known/psqr."
 }
